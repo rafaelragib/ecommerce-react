@@ -1,8 +1,11 @@
-import Home from './Components/Home/Home'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import {Products,Navbar} from "./components/";
+
 function App() {
   return (
-   <Home></Home>
+    <div>
+    <Navbar/>
+   <Products/>
+   </div>
   );
 }
 
