@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ecommerce-react/static/js/main.6c8cf61b.chunk.js",
+    "main.js.map": "/ecommerce-react/static/js/main.6c8cf61b.chunk.js.map",
+    "runtime-main.js": "/ecommerce-react/static/js/runtime-main.798de15b.js",
+    "runtime-main.js.map": "/ecommerce-react/static/js/runtime-main.798de15b.js.map",
+    "static/js/2.f1d45a63.chunk.js": "/ecommerce-react/static/js/2.f1d45a63.chunk.js",
+    "static/js/2.f1d45a63.chunk.js.map": "/ecommerce-react/static/js/2.f1d45a63.chunk.js.map",
+    "static/js/3.2f2c142f.chunk.js": "/ecommerce-react/static/js/3.2f2c142f.chunk.js",
+    "static/js/3.2f2c142f.chunk.js.map": "/ecommerce-react/static/js/3.2f2c142f.chunk.js.map",
+    "index.html": "/ecommerce-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ecommerce-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f1d45a63.chunk.js.LICENSE.txt": "/ecommerce-react/static/js/2.f1d45a63.chunk.js.LICENSE.txt",
+    "static/media/apple-touch-icon.f7168e7d.png": "/ecommerce-react/static/media/apple-touch-icon.f7168e7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.798de15b.js",
+    "static/js/2.f1d45a63.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6c8cf61b.chunk.js"
+  ]
+}
