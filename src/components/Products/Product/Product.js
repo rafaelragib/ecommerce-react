@@ -19,7 +19,7 @@ function Product({product,onAddToCart}) {
                 </div>
                 <Typography dangerouslySetInnerHTML={{__html: product.description}} variant="body2" color="textSecondary"/>
                 <CardActions disableSpacing className={classes.cardAction} >
-                    <IconButton aria-label='shopping cart' onClick={()=> onAddToCart(product.id,1)}>
+                    <IconButton aria-label='shopping cart' onClick={() => onAddToCart(product.id,1)}>
                         <AddShoppingCart/>
                     </IconButton>
                 </CardActions>
