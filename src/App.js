@@ -55,10 +55,10 @@ const App= ()=>
       <Router>
         <Navbar totalItems={cart.total_items}/>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/ecommerce-react/">
             <Products products={products} onAddToCart={handleAddToCart}/>
           </Route>
-          <Route exact path="/cart">
+          <Route exact path="/ecommerce-react/cart">
             <Cart 
             cart={cart}
             handleUpdateCartQty={handleUpdateCartQty}
