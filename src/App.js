@@ -58,7 +58,7 @@ const App= ()=>
           <Route exact path="/ecommerce-react/">
             <Products products={products} onAddToCart={handleAddToCart}/>
           </Route>
-          <Route exact path="/ecommerce-react/cart">
+          <Route exact path="/cart">
             <Cart 
             cart={cart}
             handleUpdateCartQty={handleUpdateCartQty}
