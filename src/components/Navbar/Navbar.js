@@ -20,7 +20,7 @@ const Navbar = ({totalItems}) => {
                     FarmHouse
                 </Typography>
                 <div className={classes.grow}/>
-                {location.pathname === '/ecommerce-react' && (
+                {location.pathname === '/ecommerce-react/' && (
                     <div className={classes.button}>
                     <IconButton component={Link} to="/cart" aria-label="Show cart items" color="inherit">
                         <Badge badgeContent={totalItems } color="secondary">
